@@ -1,0 +1,7 @@
+{
+  "name": "VoteSecure - Accessible Voting System",
+  "description": "A secure, accessible, and transparent voting information system for voters and election officials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
